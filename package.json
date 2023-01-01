@@ -1,0 +1,23 @@
+{
+  "name": "@ulyssear/scrap_metacritic",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulyssear/scrap_metacritic.git"
+  },
+  "author": "Ulysse ARNAUD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ulyssear/scrap_metacritic/issues"
+  },
+  "homepage": "https://github.com/ulyssear/scrap_metacritic#readme",
+  "dependencies": {
+    "@ulyssear/scraper": "^0.0.9"
+  }
+}
