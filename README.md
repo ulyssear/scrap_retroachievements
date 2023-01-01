@@ -14,7 +14,7 @@ git clone <url-of-this-repository>
 npm install
 ```
 
-3. Fixed Puppeteer by launching the following command (powershell or bash, not cmd)
+3. Fix Puppeteer by launching the following command (powershell or bash, not cmd)
 
 ```bash
 ./bin/init
