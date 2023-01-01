@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/ulyssear/scrap_metacritic#readme",
   "dependencies": {
-    "@ulyssear/scraper": "^0.0.9"
+    "@ulyssear/scraper": "^0.0.10"
   }
 }
