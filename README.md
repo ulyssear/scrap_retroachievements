@@ -1,4 +1,4 @@
-# Metacritic bot scraper
+# Retroachievements bot scraper
 
 ## Installation
 
@@ -24,7 +24,7 @@ npm install
 
 | Parameter | Description | Default value |
 | --- | --- | --- |
-| bot_name | Name of the bot | 'metacritic' |
+| bot_name | Name of the bot | 'retroachievements' |
 | date | Date of the data | Date with this format : "2023-01-01" |
 | root_path | Root path of the project | path.resolve('.') |
 | data_directory | Directory where the data will be stored | 'data' |
