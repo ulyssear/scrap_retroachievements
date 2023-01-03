@@ -56,6 +56,20 @@ Available operating systems :
 
 Example :
 
+To execute the script with edge as browser on the current operating system :
+
 ```bash
 node index.js --executable="edge"
+```
+
+To execute the script with chrome headless on linux :
+
+```bash
+node index.js --executable="chrome" --headless="true" --os="linux"
+```
+
+To execute a chunk of tasks (from the tenth to the twentieth task):
+
+```bash
+node index.js --start=10 --end=20
 ```
