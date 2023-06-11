@@ -1,7 +1,7 @@
 {
   "name": "@ulyssear/scrap_metacritic",
   "version": "0.0.1",
-  "description": "",
+  "description": "Bot scraper of metacritic which retrieving platforms and video games.",
   "main": "index.js",
   "type": "module",
   "scripts": {
